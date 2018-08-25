@@ -12,6 +12,7 @@ namespace ConsoleApp1bbbb
         {
             Console.WriteLine("aaaaa");
             Console.WriteLine("aaaaa2");
+            Console.WriteLine("bbbbb");
         }
     }
 }
